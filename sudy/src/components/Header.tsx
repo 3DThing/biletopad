@@ -11,7 +11,7 @@ export default function Header() {
 
     return (
       <header className="w-full bg-[rgba(96,165,250,0.9)] shadow-sm fixed top-0 z-50">
-        <div className="container mx-auto px-4 py-4">
+        <div className="container mx-auto px-4 py-1">
           <nav className="flex flex-col md:flex-row items-center justify-between">
             <div className="flex justify-between items-center w-full md:w-auto">
               <div className="text-3xl font-bold text-blue-900">БилетОПад</div>
